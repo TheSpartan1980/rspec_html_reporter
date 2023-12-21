@@ -1,16 +1,16 @@
 {
-  "name": "rspec_html_reporter_android_example",
+  "name": "rspec_pretty_html_reporter_android_example",
   "version": "1.0.0",
   "description": "Example explaining how to use RSpec HTML Reporter for Android",
   "keywords": [
     "Appium",
     "Android",
-    "RSpec HTML Reporter"
+    "RSpec Pretty HTML Reporter"
   ],
-  "author": "Vishal Banthia",
+  "author": "Carlos Gutierrez",
   "license": "MIT",
   "homepage": "https://github.com/vbanthia/stf-appium-example#readme",
   "dependencies": {
-    "appium": "^1.6.4"
+    "appium": "^2.3.0"
   }
 }
