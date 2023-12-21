@@ -17,7 +17,7 @@ RSpec.configure do |config|
   config.before(:suite) do
     driver_caps = {
       platformName: :android,
-      deviceName: 'Android',
+      deviceName: 'Nexus 5',
       newCommandTimeout: 9999,
       app: app_path
     }
